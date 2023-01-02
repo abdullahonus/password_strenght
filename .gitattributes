@@ -1,5 +1,5 @@
 * text=auto
 *.cpp linguist-detectable=false
-*.dart linguist-detectable=true
 *.html linguist-detectable=false
 *.CMake linguist-detectable=false
+*.Cobjective linguist-detectable=false
